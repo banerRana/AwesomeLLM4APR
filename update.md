@@ -4,6 +4,19 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069) | 2026-02-17 | arXiv |
+| [ArkEval: Benchmarking and Evaluating Automated CodeRepair for ArkTS](https://arxiv.org/abs/2602.08866) | 2026-02-09 | arXiv |
+| [Specification Vibing for Automated Program Repair](https://arxiv.org/abs/2602.08263) | 2026-02-09 | arXiv |
+| [ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair](https://arxiv.org/abs/2602.07561) | 2026-02-07 | arXiv |
+| [AgentStepper: Interactive Debugging of Software Development Agents](https://arxiv.org/abs/2602.06593) | 2026-02-06 | arXiv |
+| [What's in a Benchmark? The Case of SWE-Bench in Automated Program Repair](https://arxiv.org/abs/2602.04449) | 2026-02-04 | ICSE-SEIP26 |
+| [OmniCode: A Benchmark for Evaluating Software Engineering Agents](https://arxiv.org/abs/2602.02262) | 2026-02-02 | arXiv |
+| [Monte Carlo Tree Search for Execution-Guided Program Repair with Large Language Models](https://arxiv.org/abs/2602.00129) | 2026-01-28 | arXiv |
+| [Dynamic Cogeneration of Bug Reproduction Test in Agentic Program Repair](https://arxiv.org/abs/2601.19066) | 2026-01-27 | arXiv |
+| [Tricky$^2$: Towards a Benchmark for Evaluating Human and LLM Error Interactions](https://arxiv.org/abs/2601.18949) | 2026-01-26 | arXiv |
+| [RGFL: Reasoning Guided Fault Localization for Automated Program Repair Using Large Language Models](https://arxiv.org/abs/2601.18044) | 2026-01-25 | arXiv |
+| [VulnResolver: A Hybrid Agent Framework for LLM-Based Automated Vulnerability Issue Resolution](https://arxiv.org/abs/2601.13933) | 2026-01-20 | arXiv |
+| [Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement](https://arxiv.org/abs/2601.08545) | 2026-01-13 | AAAI2026 |
 | [DynaFix: Iterative Automated Program Repair Driven by Execution-Level Dynamic Information](https://arxiv.org/abs/2512.24635) | 2025-12-31 | arXiv |
 | [Syntax Is Not Enough: An Empirical Study of Small Transformer Models for Neural Code Repair](https://arxiv.org/abs/2512.22216) | 2025-12-22 | arXiv |
 | [Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair](https://arxiv.org/abs/2512.20203) | 2025-12-23 | ICSE 2026 |
